@@ -8,7 +8,7 @@ public class BrickGame {
 	JFrame obj = new JFrame();
 	Gameplay gamePlay = new Gameplay();
 	obj.setBounds(10, 10, 700, 600);
-	obj.setTitle("Brick Game12");
+	obj.setTitle("Brick Game");
 	obj.setResizable(false);
 	obj.setVisible(true);
 	obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
