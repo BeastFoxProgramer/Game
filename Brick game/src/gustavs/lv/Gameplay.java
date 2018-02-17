@@ -53,7 +53,7 @@ public void paint(Graphics g) {
 	map.draw((Graphics2D)g);
 	
 	//borders
-	g.setColor(Color.red);
+	g.setColor(Color.yellow);
 	g.fillRect(0, 0, 3, 597); 
 	g.fillRect(0, 0, 697,3);
 	g.fillRect(691,0,3,597);
